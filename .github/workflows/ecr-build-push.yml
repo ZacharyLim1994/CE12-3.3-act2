@@ -1,4 +1,4 @@
-name: ci
+name: AWS CI
 
 on:
   push:
